@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="PointIcon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <!-- 添加点图标的base64编码 -->
+  </data>
+  <data name="LineIcon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <!-- 添加线图标的base64编码 -->
+  </data>
+  <data name="PolygonIcon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <!-- 添加面图标的base64编码 -->
+  </data>
+</root>
